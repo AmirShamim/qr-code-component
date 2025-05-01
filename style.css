@@ -43,7 +43,7 @@ main {
   align-items: center;
   gap: 1rem;
   box-shadow: 5px 10px 20px var(--slate-500);
-  transition: transform .3s ease-in, box-shadow 0.3s ease-in;
+  transition: transform .17s ease-in, box-shadow 0.17s ease-in;
 }
 .container:hover{
     transform: translate(0px, -10px); /* Use transform for movement */
